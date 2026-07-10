@@ -35,6 +35,7 @@ flatpak override --user --filesystem=xdg-config/gtk-4.0
 ## Connected Idea 
 
 
+None so far
 
 
 
