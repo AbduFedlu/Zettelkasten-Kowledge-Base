@@ -35,10 +35,11 @@ flatpak override --user --filesystem=xdg-config/gtk-4.0
 ## Connected Idea 
 
 
-
+[[Troubleshooting]]
 
 
 ## Reference and Source
+
 
 Google Search AI Response 
 
