@@ -18,13 +18,15 @@ slip box: "[[Linux]]"
 
 - Make sure to install and Enable the adw-gtk3 theme
 
-   ```flatpak install flathub org.gtk.Gtk3theme.adw-gtk3
-        flatpak override --user --env=GTK_THEME=GTK
-   ```
+
+``` 
+flatpak install flathub org.gtk.Gtk3theme.adw-gtk3
+flatpak override --user --env=GTK_THEME=GTK
+```
 
 
 
-- Then running this to Allow the gtk css files to be accessed by Flatpak apps.
+- Then running this to - Allow the gtk css files to be accessed by Flatpak apps.
 ```bash
 flatpak override --user --filesystem=xdg-config/gtk-3.0
 flatpak override --user --filesystem=xdg-config/gtk-4.0
