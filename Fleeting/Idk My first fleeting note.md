@@ -7,7 +7,13 @@ source:
 ## --------------------------------Note-------------------------------- 
 
 
-Vertical content creation using a claude ai pro account with money borrowed from arata abedari people 
+Vertical content creation using a claude ai pro account with money borrowed from  አራጣ አበዳሪ 
+
+
+![[Pasted image 20260710170857.png]]
+
+which is great 
+
 
 
 
