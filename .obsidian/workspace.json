@@ -11,10 +11,24 @@
             "id": "bedb62198fb5d89d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Permanent/Flatpak apps not respcting Gtk theme custome Css.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Flatpak apps not respcting Gtk theme custome Css"
             }
           }
         ]
@@ -174,11 +188,15 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b005c3a28fbfb30e",
+  "active": "bedb62198fb5d89d",
   "lastOpenFiles": [
+    "--Miscellaneous--/Attachments/Pasted image 20260710161433.png",
+    "Fleeting/Untitled.md",
+    "Permanent/Flatpak apps not respcting Gtk theme custome Css.md",
     "Fleeting/Andy Morgan and Andrea Valdez.md",
     "Literature/Volume ,Intensity, Frequency and RIR (Reps in reserve).md",
     "Permanent/Training Program Accommodation Notes.md",
@@ -211,9 +229,6 @@
     "Permanent",
     "Literature",
     "Fleeting",
-    "Notes/Politics/SOCIALISM.md",
-    "Templates/Note Template.md",
-    "Notes/Geopolitics/GDF ( Youtube )/Is Israel a Democracy 1.md",
     "Notes/Politics"
   ]
 }
