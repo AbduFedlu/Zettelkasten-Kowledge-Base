@@ -9,7 +9,7 @@ slip box: "[[Linux]]"
 ---
 
 
-## Note 
+## ------------------------------Note----------------------------- 
 
 
 # Flatpak GTK Override Instructions
