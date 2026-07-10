@@ -1,0 +1,142 @@
+/*
+  Slate Slate Palette for Obsidian
+  Background: #111218
+  Text: #E1E2E9
+  Accent: #5a6a9a
+*/
+
+.theme-dark {
+    /* ── CORE PALETTE ── */
+    --base: #111318;
+    --mantle: #111218;
+    --crust: #0a0a0f;
+    --text: #E1E2E9;
+    
+    --subtext0: #b4b5c1;
+    --subtext1: #9a9ba8;
+    
+    --surface0: #1a1b22;
+    --surface1: #22232c;
+    --surface2: #2b2c37;
+    
+    --overlay0: #3c3d4a;
+    
+    --accent: #5a6a9a;
+    --blue: #5a6a9a;
+    --red: #9a5a5a;
+    --green: #5a8a6a;
+    --yellow: #9a8a5a;
+    --purple: #4e4f5e;
+
+    /* ── OBSIDIAN SYSTEM OVERRIDES ── */
+    
+    /* Backgrounds */
+    --background-primary: var(--base);
+    --background-primary-alt: var(--mantle);
+    --background-secondary: var(--mantle);
+    --background-secondary-alt: var(--crust);
+    --background-modifier-hover: var(--surface0);
+    --background-modifier-active-hover: var(--surface1);
+    
+    /* Text */
+    --text-normal: var(--text);
+    --text-muted: var(--subtext1);
+    --text-faint: var(--overlay0);
+    --text-accent: var(--accent);
+    --text-accent-hover: lighten(var(--accent), 10%);
+    
+    /* Interactive Elements */
+    --interactive-accent: var(--accent);
+    --interactive-accent-hover: var(--accent);
+    --interactive-hover: var(--surface1);
+    
+    /* Borders */
+    --background-modifier-border: var(--surface1);
+    --background-modifier-border-focus: var(--overlay0);
+    --divider-color: var(--surface1);
+
+    /* Selection */
+   --text-selection: rgba(90, 106, 154, 0.3);
+
+ 
+    /* ── EDITOR SPECIFICS ── */
+    
+    /* Code & Markdown */
+    --code-normal: var(--text);
+    --code-comment: var(--subtext1);
+    --code-function: var(--blue);
+    --code-important: var(--purple);
+    --code-keyword: var(--purple);
+    --code-operator: var(--purple);
+    --code-string: var(--green);
+    --code-tag: var(--blue);
+    --code-value: var(--yellow);
+    --code-background: var(--crust);
+
+    /* Headings */
+    --h1-color: var(--accent);
+    --h2-color: var(--accent);
+    --h3-color: var(--accent);
+    --h4-color: var(--text);
+    --h5-color: var(--text);
+    --h6-color: var(--text);
+
+    /* UI Components */
+    --nav-item-color: var(--subtext0);
+    --nav-item-color-hover: var(--text);
+    --nav-item-color-active: var(--text);
+    --nav-item-background-hover: var(--surface0);
+    --nav-item-background-active: var(--surface1);
+
+    /* Titlebar & Status Bar */
+    --titlebar-background: #111318;
+    --titlebar-background-focused: var(--crust);
+    --status-bar-background: var(--crust);
+    --status-bar-border: var(--crust);
+
+    /* Scrollbars */
+    --scrollbar-bg: transparent;
+    --scrollbar-thumb-bg: var(--surface2);
+    --scrollbar-active-thumb-bg: var(--overlay0);
+}
+
+/* ── ADDITIONAL REFINEMENTS ── */
+
+/* Active Tab Highlight */
+.mod-root .workspace-tab-header.is-active {
+    background-color: var(--surface0) !important;
+    border-bottom: 2px solid var(--accent) !important;
+    
+}
+
+.mod-root .workspace-tab-header.is-inactive {
+    background-color: var(--surface0) !important;
+    border-bottom: 2px solid var(--accent) !important;
+    
+}
+
+/* Search Bar Fix */
+.search-input-container input {
+    background-color: var(--surface0) !important;
+    border: 1px solid var(--surface1) !important;
+}
+
+/* Callouts (The side info blocks) */
+.callout {
+    background-color: var(--mantle) !important;
+    border: 1px solid var(--surface1) !important;
+}
+
+/* Tooltips */
+.tooltip {
+    background-color: var(--surface2) !important;
+    color: var(--text) !important;
+    border: 1px solid var(--overlay0) !important;
+}
+
+/* Inline Code */
+code {
+    background-color: var(--crust) !important;
+    color: var(--blue) !important;
+    padding: 0.1em 0.3em !important;
+}

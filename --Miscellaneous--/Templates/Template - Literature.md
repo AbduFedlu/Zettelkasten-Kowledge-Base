@@ -1,0 +1,18 @@
+---
+title: "{{title}}"
+date: "{{date}}"
+tags:
+slip box:
+---
+
+## Body 
+
+
+
+
+
+
+## Reference 
+
+[[-----]]
+

@@ -1,0 +1,23 @@
+/* Custom CSS for a thinner, more transparent scrollbar */
+
+/* Targets the scrollbar itself */
+::-webkit-scrollbar {
+  width: 6px !important; /* Make it thinner (default is usually 10-15px) */
+  height: 6px !important; 
+}
+
+/* Targets the draggable part of the scrollbar */
+::-webkit-scrollbar-thumb {
+  background-color: rgba(150, 150, 150, 0.4) !important; /* Semi-transparent gray */
+  border-radius: 3px !important; /* Rounded edges */
+}
+
+/* Appearance when hovering over the scrollbar */
+::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(150, 150, 150, 0.6) !important; /* Slightly more opaque on hover */
+}
+
+/* Targets the track (the area the thumb moves over) - optional */
+::-webkit-scrollbar-track {
+  background-color: transparent !important; /* Ensure the track is transparent */
+}

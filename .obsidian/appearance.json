@@ -1,0 +1,10 @@
+{
+  "enabledCssSnippets": [
+    "Slaterice",
+    "boldcolorfull",
+    "scrollerbar",
+    "Random"
+  ],
+  "cssTheme": "Minimal",
+  "showRibbon": false
+}

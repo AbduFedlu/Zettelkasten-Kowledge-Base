@@ -1,0 +1,87 @@
+/*For unique bullet points at each tab level*/
+
+/* LEVEL 1 */
+.markdown-reading-view ul > li > .list-bullet:after,
+.markdown-source-view.mod-cm6 .HyperMD-list-line-1 .list-bullet:after {
+/* Bullet */
+height: 7px;
+width: 7px;
+border-radius: 50%;
+}
+/* LEVEL 2 */
+.markdown-reading-view ul > li > ul > li > .list-bullet:after,
+.markdown-source-view.mod-cm6 .HyperMD-list-line-2 .list-bullet:after {
+/* Hollow Bullet */
+height: 7px;
+width: 7px;
+background-color: transparent;
+border-style: solid;
+border-radius: 50%;
+border-width: 1px;
+}
+/* LEVEL 3 */
+.markdown-reading-view ul > li > ul > li > ul > li > .list-bullet:after,
+.markdown-source-view.mod-cm6 .HyperMD-list-line-3 .list-bullet:after {
+/* Solid Square */
+height: 5px;
+width: 5px;
+border-radius: 0%;
+background-color: rgb(89, 89, 89);
+}
+.markdown-source-view.mod-cm6 .HyperMD-list-line-3 .list-bullet:after {
+/* Solid Square */
+height: 7px;
+width: 7px;
+border-radius: 0%;
+background-color: rgb(89, 89, 89);
+}
+/* LEVEL 4 */
+.markdown-reading-view ul > li > ul > li > ul > li > ul > li >.list-bullet:after,
+.markdown-source-view.mod-cm6 .HyperMD-list-line-4 .list-bullet:after {
+/* Triangle */
+height: 0;
+width: 0;
+background-color: transparent;
+border-radius: 0%;
+border-top: 5px solid transparent;
+border-bottom: 5px solid transparent;
+border-left: 8px solid;
+border-right: 0px solid;
+}
+
+/* A snippet to have alternating colors for each folder, this is the one I decided on and like best! */
+
+body {
+   --folder-color-1: #B278F2;
+   --folder-color-2: #5E9BE1;
+   --folder-color-3: #FFC21F;
+   --folder-color-4: #46AC79;
+   --folder-color-5: #D07A40;
+   --folder-color-6: #D23838;
+}
+
+.nav-files-container > div > .nav-folder:nth-child(6n + 1) { --folder-color: var(--folder-color-1); }
+.nav-files-container > div > .nav-folder:nth-child(6n + 2) { --folder-color: var(--folder-color-2); }
+.nav-files-container > div > .nav-folder:nth-child(6n + 3) { --folder-color: var(--folder-color-3); }
+.nav-files-container > div > .nav-folder:nth-child(6n + 4) { --folder-color: var(--folder-color-4); }
+.nav-files-container > div > .nav-folder:nth-child(6n + 5) { --folder-color: var(--folder-color-5); }
+.nav-files-container > div > .nav-folder:nth-child(6n + 6) { --folder-color: var(--folder-color-6); }
+
+.nav-files-container > div > .nav-folder {
+   border: 1px solid var(--divider-color);
+   border-left: 4px solid var(--folder-color);
+   border-radius: var(--radius-s);
+}
+
+.nav-files-container > div > .nav-folder + .nav-folder {
+   margin-top: var(--size-2-2);
+}
+
+.nav-folder-title {
+   color: var(--folder-color);
+   font-weight: var(--font-bold);
+}
+
+/* ---------------------------------------------------------------------------------------- */
+
+

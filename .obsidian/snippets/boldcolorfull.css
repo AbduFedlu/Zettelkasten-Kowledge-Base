@@ -1,0 +1,65 @@
+/* =========================================================
+   DYNAMIC BOLD COLORS (Blue Priority / One Dark Palette)
+   ========================================================= */
+
+body {
+    /* Palette Definitions */
+    --bold-blue:   #61AFEF; /* PRIMARY */
+    --bold-purple: #C678DD;
+    --bold-cyan:   #56B6C2;
+    --bold-red:    #E06C75;
+    --bold-green:  #98C379;
+    --bold-yellow: #E5C07B;
+}
+
+/* =========================================================
+   1. DEFINE THE ROTATION LOGIC
+   The cycles have been shifted so Line 1 starts with Blue.
+   ========================================================= */
+
+/* Rotation 1 (Lines 1, 7...): Starts with BLUE */
+:is(.cm-line, .markdown-preview-section > div, li):nth-child(6n+1) {
+    --c1: var(--bold-blue);   --c2: var(--bold-purple); --c3: var(--bold-cyan);
+    --c4: var(--bold-red);    --c5: var(--bold-green);  --c6: var(--bold-yellow);
+}
+
+/* Rotation 2 (Lines 2, 8...): Starts with PURPLE */
+:is(.cm-line, .markdown-preview-section > div, li):nth-child(6n+2) {
+    --c1: var(--bold-purple); --c2: var(--bold-cyan);   --c3: var(--bold-red);
+    --c4: var(--bold-green);  --c5: var(--bold-yellow); --c6: var(--bold-blue);
+}
+
+/* Rotation 3 (Lines 3, 9...): Starts with CYAN */
+:is(.cm-line, .markdown-preview-section > div, li):nth-child(6n+3) {
+    --c1: var(--bold-cyan);   --c2: var(--bold-red);    --c3: var(--bold-green);
+    --c4: var(--bold-yellow); --c5: var(--bold-blue);   --c6: var(--bold-purple);
+}
+
+/* Rotation 4 (Lines 4, 10...): Starts with RED */
+:is(.cm-line, .markdown-preview-section > div, li):nth-child(6n+4) {
+    --c1: var(--bold-red);    --c2: var(--bold-green);  --c3: var(--bold-yellow);
+    --c4: var(--bold-blue);   --c5: var(--bold-purple); --c6: var(--bold-cyan);
+}
+
+/* Rotation 5 (Lines 5, 11...): Starts with GREEN */
+:is(.cm-line, .markdown-preview-section > div, li):nth-child(6n+5) {
+    --c1: var(--bold-green);  --c2: var(--bold-yellow); --c3: var(--bold-blue);
+    --c4: var(--bold-purple); --c5: var(--bold-cyan);   --c6: var(--bold-red);
+}
+
+/* Rotation 6 (Lines 6, 12...): Starts with YELLOW */
+:is(.cm-line, .markdown-preview-section > div, li):nth-child(6n+6) {
+    --c1: var(--bold-yellow); --c2: var(--bold-blue);   --c3: var(--bold-purple);
+    --c4: var(--bold-cyan);   --c5: var(--bold-red);    --c6: var(--bold-green);
+}
+
+/* =========================================================
+   2. APPLY COLORS TO BOLD TAGS
+   ========================================================= */
+
+:is(.markdown-rendered strong, .cm-strong):nth-of-type(6n+1) { color: var(--c1) !important; }
+:is(.markdown-rendered strong, .cm-strong):nth-of-type(6n+2) { color: var(--c2) !important; }
+:is(.markdown-rendered strong, .cm-strong):nth-of-type(6n+3) { color: var(--c3) !important; }
+:is(.markdown-rendered strong, .cm-strong):nth-of-type(6n+4) { color: var(--c4) !important; }
+:is(.markdown-rendered strong, .cm-strong):nth-of-type(6n+5) { color: var(--c5) !important; }
+:is(.markdown-rendered strong, .cm-strong):nth-of-type(6n+6) { color: var(--c6) !important; }

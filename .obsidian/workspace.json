@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "bfceb6f4a0b21c11",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d96ee0d5f3d2f01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bedb62198fb5d89d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a9f79d659aacdcde",
+    "type": "split",
+    "children": [
+      {
+        "id": "5195be1d5d518f2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b005c3a28fbfb30e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ec5556342e330a15",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f9231e88606b79fa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 248.5
+  },
+  "right": {
+    "id": "b41bf366b417f097",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9b5d88e27f6fc4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9611e8dd1a52d2df",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Permanent/Training Program Accommodation Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Training Program Accommodation Notes"
+            }
+          },
+          {
+            "id": "5608264f4f216bcc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "8958a4681ee29468",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8499b275472cd1e8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5e9e3ff49d356c8d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "b005c3a28fbfb30e",
+  "lastOpenFiles": [
+    "Fleeting/Andy Morgan and Andrea Valdez.md",
+    "Literature/Volume ,Intensity, Frequency and RIR (Reps in reserve).md",
+    "Permanent/Training Program Accommodation Notes.md",
+    "Literature/Warm Up Before Gym Training.md",
+    "Literature/Creating a Training Program.md",
+    "--Miscellaneous--/Templates/Template - Fleeting.md",
+    "--Miscellaneous--/Templates/Template - Permanent.md",
+    "--Miscellaneous--/Templates/Template - Literature.md",
+    "--Miscellaneous--/Clippings/r-bodyweightfitness Wiki Your Guide to Calisthenics.md",
+    "Clippings/rbodyweightfitness Wiki Your Guide to Calisthenics.md",
+    "Clippings",
+    "--Miscellaneous--/PDF",
+    "--Miscellaneous--/Clippings/Guide To Program Building For Bodybuilding and Powerlifting.md",
+    "--Miscellaneous--/Clippings/How to Choose the Most Effective Strength Training Program for YOU.md",
+    "Fleeting/-----.md",
+    "--Miscellaneous--/Clippings/Guide To Program Building For Bodybuilding and Powerlifting 1.md",
+    "Permanent/Creasing Sneakers.md",
+    "Literature/1839 quickly changed that.md",
+    "Fleeting/Ada.md",
+    "Permanent/Shoe boxes.md",
+    "Literature/Original run of that.md",
+    "Fleeting/Black and red.md",
+    "Fleeting/Ada - bring the eggs.md",
+    "Fleeting/adada.md",
+    "Untitled.md",
+    "--Miscellaneous--/Clippings",
+    "--Miscellaneous--/Attachments",
+    "--Miscellaneous--/Templates",
+    "--Miscellaneous--",
+    "Permanent",
+    "Literature",
+    "Fleeting",
+    "Notes/Politics/SOCIALISM.md",
+    "Templates/Note Template.md",
+    "Notes/Geopolitics/GDF ( Youtube )/Is Israel a Democracy 1.md",
+    "Notes/Politics"
+  ]
+}
