@@ -35,12 +35,7 @@ flatpak override --user --filesystem=xdg-config/gtk-4.0
 ## Connected Idea 
 
 
-<<<<<<< HEAD:Permanent/Flatpak apps not respecting Gtk theme custom CSS.md
 [[Troubleshooting]]
-=======
-None so far
-
->>>>>>> origin/main:Permanent/Flatpak apps not respcting Gtk theme custome Css.md
 
 
 ## Reference and Source
