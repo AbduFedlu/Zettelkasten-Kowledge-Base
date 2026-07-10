@@ -4,16 +4,16 @@ date: "{{date}}"
 tags:
 slip box:
 ---
-## Note 
+## --------------------------------Note-------------------------------- 
 
 
 
 
 
-## Connected Idea 
+## ------------------------Connected Ideas-------------------------  
 
 
 
 
 
-## Reference and Source
+## ----------------------Reference and Source-----------------------
