@@ -11,10 +11,38 @@
             "id": "27898ad54836a0cb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Permanent/Setting-Up git syncing with Obsidian.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Setting-Up git syncing with Obsidian"
+            }
+          },
+          {
+            "id": "d01d3d1addeadd16",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://duckduckgo.com/?q=gitsync+playstore&ia=web",
+                "title": "gitsync playstore at DuckDuckGo",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "gitsync playstore at DuckDuckGo"
             }
           }
         ]
@@ -74,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 248.5,
+    "collapsed": true
   },
   "right": {
     "id": "b41bf366b417f097",
@@ -174,12 +203,14 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
-      "obsidian-git:Open Git source control": false
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "27898ad54836a0cb",
   "lastOpenFiles": [
+    "Permanent/Setting-Up git syncing with Obsidian.md",
+    "Fleeting/Sample note.md",
+    "Fleeting",
     "Fleeting/Idk My first fleeting note.md",
     "--Miscellaneous--/Attachments/Pasted image 20260710170857.png",
     "Literature/Creating a Training Program.md",
@@ -209,14 +240,12 @@
     "Permanent/Shoe boxes.md",
     "Literature/Original run of that.md",
     "Fleeting/Black and red.md",
-    "Fleeting/Ada - bring the eggs.md",
     "--Miscellaneous--/Clippings",
     "--Miscellaneous--/Attachments",
     "--Miscellaneous--/Templates",
     "--Miscellaneous--",
     "Permanent",
     "Literature",
-    "Fleeting",
     "Notes/Politics"
   ]
 }
