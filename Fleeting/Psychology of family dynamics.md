@@ -1,9 +1,8 @@
 ---
-title: "Psychology of family dynamics"
-date: "2026-07-10"
+title: Psychology of family dynamics
+date: 2026-07-10
 tags:
   - "#psychology"
-source:
 ---
 ## --------------------------------Note-------------------------------- 
 

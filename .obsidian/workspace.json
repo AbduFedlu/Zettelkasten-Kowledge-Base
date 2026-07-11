@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0a7c1813a52119d5",
+        "id": "105fbdbbdab3d530",
         "type": "tabs",
         "children": [
           {
-            "id": "27898ad54836a0cb",
+            "id": "fdfbfa2832015ffe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting/Sample note.md",
+                "file": "Literature/Self-Efficacy - The Exercise of Control.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,24 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sample note"
+              "title": "Self-Efficacy - The Exercise of Control"
             }
           },
           {
-            "id": "d01d3d1addeadd16",
+            "id": "16922dce255ffebb",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://duckduckgo.com/?q=gitsync+playstore&ia=web",
-                "title": "gitsync playstore at DuckDuckGo",
-                "mode": "webview"
+                "file": "Literature/Self-Efficacy - The Exercise of Control.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "globe-2",
-              "title": "gitsync playstore at DuckDuckGo"
+              "icon": "lucide-file",
+              "title": "Self-Efficacy - The Exercise of Control"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,28 +214,39 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "b005c3a28fbfb30e",
+  "active": "16922dce255ffebb",
   "lastOpenFiles": [
+    "Literature/Warm Up Before Gym Training.md",
+    "Literature/Volume ,Intensity, Frequency and RIR (Reps in reserve).md",
+    "Literature/Self-Efficacy - The Exercise of Control.md",
+    "Literature/Creating a Training Program.md",
+    "Fleeting/Psychology of family dynamics.md",
+    "Fleeting/The Basics of Cognitive Behavioral Therapy.md",
+    "--Miscellaneous--/Templates/Template - Fleeting.md",
+    "--Miscellaneous--/Attachments/Pasted image 20260711232652.png",
+    "--Miscellaneous--/Attachments/Pasted image 20260711232626.png",
+    "Fleeting/Psychology.md",
+    "--Miscellaneous--/Attachments/Pasted image 20260711231244.png",
+    "--Miscellaneous--/Files/Self-efficacy _ the exercise of control -- Albert Bandura -- New York, New York State, 1997 -- W_ H_ Freeman & Company -- isbn13 97.pdf",
+    "--Miscellaneous--/Files",
+    "--Miscellaneous--/Templates/Template - Book_Notes.md",
+    "--Miscellaneous--/Templates/Template - Book_Notes - Layout.md",
+    "Permanent/Training Program Accommodation Notes.md",
     "Permanent/Setting-Up git syncing with Obsidian.md",
     "Fleeting/Sample note.md",
     "Fleeting",
     "Fleeting/Idk My first fleeting note.md",
     "--Miscellaneous--/Attachments/Pasted image 20260710170857.png",
-    "Literature/Creating a Training Program.md",
     "Permanent/Flatpak apps not respecting Gtk theme custom CSS.md",
     "conflict-files-obsidian-git.md",
-    "Literature/Warm Up Before Gym Training.md",
-    "Literature/Volume ,Intensity, Frequency and RIR (Reps in reserve).md",
     "--Miscellaneous--/Attachments/Pasted image 20260710161433.png",
-    "Fleeting/Untitled.md",
     "--Miscellaneous--/Attachments/Pasted image 20260710163809.png",
     "--Miscellaneous--/Templates/Template - Permanent.md",
     "--Miscellaneous--/Templates/Template - Literature.md",
-    "--Miscellaneous--/Templates/Template - Fleeting.md",
-    "Permanent/Training Program Accommodation Notes.md",
     "Fleeting/Andy Morgan and Andrea Valdez.md",
     "--Miscellaneous--/Clippings/r-bodyweightfitness Wiki Your Guide to Calisthenics.md",
     "Clippings/rbodyweightfitness Wiki Your Guide to Calisthenics.md",
@@ -234,18 +256,10 @@
     "--Miscellaneous--/Clippings/How to Choose the Most Effective Strength Training Program for YOU.md",
     "Fleeting/-----.md",
     "--Miscellaneous--/Clippings/Guide To Program Building For Bodybuilding and Powerlifting 1.md",
-    "Permanent/Creasing Sneakers.md",
-    "Literature/1839 quickly changed that.md",
-    "Fleeting/Ada.md",
-    "Permanent/Shoe boxes.md",
-    "Literature/Original run of that.md",
-    "Fleeting/Black and red.md",
     "--Miscellaneous--/Clippings",
     "--Miscellaneous--/Attachments",
     "--Miscellaneous--/Templates",
     "--Miscellaneous--",
-    "Permanent",
-    "Literature",
-    "Notes/Politics"
+    "Permanent"
   ]
 }

@@ -1,5 +1,7 @@
 [
   "highlightr-plugin",
   "obsidian-minimal-settings",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-git",
+  "templater-obsidian"
 ]
