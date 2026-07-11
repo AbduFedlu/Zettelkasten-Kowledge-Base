@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting/Sample note.md",
+                "file": "--Miscellaneous--/Templates/Template - Fleeting.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sample note"
+              "title": "Template - Fleeting"
             }
           }
         ]
@@ -122,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Permanent/Flatpak apps not respcting Gtk theme custome Css.md",
+            "file": "--Miscellaneous--/Templates/Template - Fleeting.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -179,6 +179,9 @@
   },
   "active": "693bdef96ec674bb",
   "lastOpenFiles": [
+    "Fleeting/Psychology of family dynamics.md",
+    "--Miscellaneous--/Templates/Template - Fleeting.md",
+    "Permanent/Setting-Up git syncing with Obsidian.md",
     "Fleeting/Sample note.md",
     "Fleeting/Idk My first fleeting note.md",
     "Permanent/Flatpak apps not respcting Gtk theme custome Css.md",
