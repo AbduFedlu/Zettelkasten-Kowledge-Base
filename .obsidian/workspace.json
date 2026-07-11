@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/Self-Efficacy - The Exercise of Control.md",
+                "file": "Permanent/Setting-Up git syncing with Obsidian.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Self-Efficacy - The Exercise of Control"
+              "title": "Setting-Up git syncing with Obsidian"
             }
           },
           {
@@ -55,8 +55,7 @@
               "title": "Self-Efficacy - The Exercise of Control"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,11 +217,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "16922dce255ffebb",
+  "active": "fdfbfa2832015ffe",
   "lastOpenFiles": [
+    "Literature/Self-Efficacy - The Exercise of Control.md",
     "Literature/Warm Up Before Gym Training.md",
     "Literature/Volume ,Intensity, Frequency and RIR (Reps in reserve).md",
-    "Literature/Self-Efficacy - The Exercise of Control.md",
     "Literature/Creating a Training Program.md",
     "Fleeting/Psychology of family dynamics.md",
     "Fleeting/The Basics of Cognitive Behavioral Therapy.md",
