@@ -26,7 +26,7 @@ For Windows/Linux
    ```
 
    ```
-   git config set credential.helper manager
+   git config credential.helper libsecret
    ```
 
 
