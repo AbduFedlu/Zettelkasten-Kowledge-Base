@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Permanent/Setting-Up git syncing with Obsidian.md",
+                "file": "Fleeting/Sample note.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Setting-Up git syncing with Obsidian"
+              "title": "Sample note"
             }
           },
           {
@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5,
-    "collapsed": true
+    "width": 248.5
   },
   "right": {
     "id": "b41bf366b417f097",
@@ -203,10 +202,11 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27898ad54836a0cb",
+  "active": "b005c3a28fbfb30e",
   "lastOpenFiles": [
     "Permanent/Setting-Up git syncing with Obsidian.md",
     "Fleeting/Sample note.md",
