@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "105fbdbbdab3d530",
+        "id": "08bad4330a541a52",
         "type": "tabs",
         "children": [
           {
-            "id": "fdfbfa2832015ffe",
+            "id": "6e666b9c9c50527e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Permanent/Setting-Up git syncing with Obsidian.md",
+                "file": "Fleeting/DARBEE Workout Dump.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Setting-Up git syncing with Obsidian"
-            }
-          },
-          {
-            "id": "16922dce255ffebb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Literature/Self-Efficacy - The Exercise of Control.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Self-Efficacy - The Exercise of Control"
+              "title": "DARBEE Workout Dump"
             }
           }
         ]
@@ -87,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:workout",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -196,9 +172,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "cd386af199e60044",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw-sidepanel",
+              "state": {},
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw Sidepanel"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -214,51 +200,56 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fdfbfa2832015ffe",
+  "active": "6e666b9c9c50527e",
   "lastOpenFiles": [
+    "Literature/Cutting.md",
+    "Excalidraw/Drawing 2026-07-13 23.38.31.excalidraw.md",
+    "Fleeting/DARBEE Workout Dump.md",
+    "--Miscellaneous--/Attachments/Pasted image 20260714012145.png",
+    "--Miscellaneous--/Clippings/Guide To Program Building For Bodybuilding and Powerlifting.md",
+    "--Miscellaneous--/Attachments/Pasted image 20260714011309.png",
+    "Permanent/Training Program Accommodation Notes.md",
+    "--Miscellaneous--/Clippings/r-bodyweightfitness Wiki Your Guide to Calisthenics.md",
+    "--Miscellaneous--/Attachments/Pasted Image 20260714003443_453.png",
+    "--Miscellaneous--/Attachments/Pasted Image 20260714002706_940.png",
+    "--Miscellaneous--/Attachments/Pasted Image 20260714003003_162.png",
+    "--Miscellaneous--/Attachments/Pasted Image 20260714002458_805.png",
+    "--Miscellaneous--/Attachments/Pasted Image 20260714001846_249.png",
+    "--Miscellaneous--/Attachments/Pasted Image 20260714002335_945.png",
+    "--Miscellaneous--/Attachments/Pasted Image 20260714001804_670.png",
+    "--Miscellaneous--/Attachments/Pasted Image 20260714001613_224.png",
+    "--Miscellaneous--/Attachments/DARBEE Workout Dump 2026-07-13 23.38.15.excalidraw.md",
+    "Excalidraw/Drawing 2026-07-13 01.10.23.excalidraw.md",
     "Literature/Self-Efficacy - The Exercise of Control.md",
+    "Excalidraw/Drawing 2026-07-13 00.36.52.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Icon Library.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw/Drawing 2026-07-13 00.36.11.excalidraw.md",
+    "Excalidraw",
+    "Permanent/Setting-Up git syncing with Obsidian.md",
     "Literature/Warm Up Before Gym Training.md",
     "Literature/Volume ,Intensity, Frequency and RIR (Reps in reserve).md",
     "Literature/Creating a Training Program.md",
     "Fleeting/Psychology of family dynamics.md",
     "Fleeting/The Basics of Cognitive Behavioral Therapy.md",
     "--Miscellaneous--/Templates/Template - Fleeting.md",
-    "--Miscellaneous--/Attachments/Pasted image 20260711232652.png",
-    "--Miscellaneous--/Attachments/Pasted image 20260711232626.png",
     "Fleeting/Psychology.md",
-    "--Miscellaneous--/Attachments/Pasted image 20260711231244.png",
     "--Miscellaneous--/Files/Self-efficacy _ the exercise of control -- Albert Bandura -- New York, New York State, 1997 -- W_ H_ Freeman & Company -- isbn13 97.pdf",
     "--Miscellaneous--/Files",
     "--Miscellaneous--/Templates/Template - Book_Notes.md",
     "--Miscellaneous--/Templates/Template - Book_Notes - Layout.md",
-    "Permanent/Training Program Accommodation Notes.md",
-    "Permanent/Setting-Up git syncing with Obsidian.md",
     "Fleeting/Sample note.md",
     "Fleeting",
     "Fleeting/Idk My first fleeting note.md",
-    "--Miscellaneous--/Attachments/Pasted image 20260710170857.png",
     "Permanent/Flatpak apps not respecting Gtk theme custom CSS.md",
-    "conflict-files-obsidian-git.md",
-    "--Miscellaneous--/Attachments/Pasted image 20260710161433.png",
-    "--Miscellaneous--/Attachments/Pasted image 20260710163809.png",
-    "--Miscellaneous--/Templates/Template - Permanent.md",
-    "--Miscellaneous--/Templates/Template - Literature.md",
-    "Fleeting/Andy Morgan and Andrea Valdez.md",
-    "--Miscellaneous--/Clippings/r-bodyweightfitness Wiki Your Guide to Calisthenics.md",
-    "Clippings/rbodyweightfitness Wiki Your Guide to Calisthenics.md",
     "Clippings",
     "--Miscellaneous--/PDF",
-    "--Miscellaneous--/Clippings/Guide To Program Building For Bodybuilding and Powerlifting.md",
-    "--Miscellaneous--/Clippings/How to Choose the Most Effective Strength Training Program for YOU.md",
-    "Fleeting/-----.md",
-    "--Miscellaneous--/Clippings/Guide To Program Building For Bodybuilding and Powerlifting 1.md",
     "--Miscellaneous--/Clippings",
-    "--Miscellaneous--/Attachments",
-    "--Miscellaneous--/Templates",
-    "--Miscellaneous--",
-    "Permanent"
+    "--Miscellaneous--/Attachments"
   ]
 }
