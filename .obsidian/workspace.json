@@ -42,9 +42,33 @@
               "icon": "lucide-file",
               "title": "Self-Regulation and EGO Control"
             }
+          },
+          {
+            "id": "6003028c56a1904a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,13 +242,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b97dce28db0e0041",
+  "active": "6003028c56a1904a",
   "lastOpenFiles": [
+    "Literature/Self-Regulation and EGO Control.md",
+    "conflict-files-obsidian-git.md",
     "Permanent/Training Program Accommodation Notes.md",
     "Permanent/Workout_A.md",
     "Permanent/Setting-Up git syncing with Obsidian.md",
     "Permanent/Flatpak apps not respecting Gtk theme custom CSS.md",
-    "Literature/Self-Regulation and EGO Control.md",
     "--Miscellaneous--/Attachments/Pasted image 20260719165150.png",
     "--Miscellaneous--/Attachments/Pasted image 20260719165133.png",
     "Literature/Self-Efficacy - The Exercise of Control.md",
@@ -263,7 +288,6 @@
     "--Miscellaneous--/Templates/Template - Book_Notes - Layout.md",
     "Fleeting/Sample note.md",
     "Fleeting",
-    "Fleeting/Idk My first fleeting note.md",
     "Clippings",
     "--Miscellaneous--/PDF"
   ]

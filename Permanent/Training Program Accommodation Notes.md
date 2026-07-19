@@ -75,7 +75,7 @@ slip box: "[[Workout]]"
 [[Workout]]
 
 
-- [[Warm Up Before Gym Training]] 
+- [[Warm Up Before Gym Training]]
 - [[Volume ,Intensity, Frequency and RIR (Reps in reserve)]] 
 - [[Warm Up Before Gym Training]] 
 
