@@ -56,7 +56,7 @@ Post Workout
 
 ![[Pasted image 20260714012145.png]]
 
-[[Drawing 2026-07-13 23.38.31.excalidraw]]
+[[Workout_A]]
 
 
 
